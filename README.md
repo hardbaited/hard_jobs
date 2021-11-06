@@ -4,6 +4,7 @@
 
 # Requirments:
 **All the requirments are inside this repository**
+- **Make sure to run the items.sql file first**
 - **Menuapi**
 - **ProgressBars**
 - **Some Metabolism script for the items that you want to use**
