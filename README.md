@@ -33,7 +33,7 @@ a few people can access them by the defined names in the server files.
 # Jobs Made By Me:
 - **Medic Job**
 - **Mining**
-- **Optimized Gold Paning**
+- **Optimized Gold Panning**
 - **Optimized Police Job**
 - **Wood Cutting**
 - **Saloon Job**
