@@ -16,6 +16,7 @@ some of the scripts inside this resource are not made by me nor do i claim credi
 - **Syn_items: made by syn**
 - **menuapi: Unknown Author - probably syn**
 - **progressBars: Unknown Author**
+- **Gold Panning: Unknown Author**
 
 # Features:
 This script has 6 jobs and in total it has **8** scripts merged inside of it with a resmon **~0.06** when idle. Most of the jobs are shop based so only 
@@ -28,3 +29,11 @@ a few people can access them by the defined names in the server files.
 - **Mining**
 - **Saloon Job**
 - **Wood Cutting**
+
+# Jobs Made By Me:
+- **Medic Job**
+- **Mining**
+- **Optimized Gold Paning**
+- **Optimized Police Job**
+- **Wood Cutting**
+- **Saloon Job**
