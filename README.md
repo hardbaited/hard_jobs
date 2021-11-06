@@ -18,7 +18,7 @@ some of the scripts inside this resource are not made by me nor do i claim credi
 - **progressBars: Unknown Author**
 
 # Features:
-This script has 6 jobs and in total it has **9** scripts merged inside of it with a resmon **~0.06** when idle. Most of the jobs are shop based so only 
+This script has 6 jobs and in total it has **8** scripts merged inside of it with a resmon **~0.06** when idle. Most of the jobs are shop based so only 
 a few people can access them by the defined names in the server files.
 
 # Jobs Included:
