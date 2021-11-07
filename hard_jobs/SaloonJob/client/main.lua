@@ -1,3 +1,7 @@
+TriggerEvent("menuapi:getData",function(call)
+    MenuData = call
+end)
+
 local job
 
 -- Saloons
