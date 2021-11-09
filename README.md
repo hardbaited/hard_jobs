@@ -1,6 +1,7 @@
 # hard_jobs
 - Only For VORP
 - OneSync Compatible
+- if you want to edit the script and add stuff please make sure to fork this repository and do changes there so other people can see it much love <3
 
 # Requirments:
 **All the requirments are inside this repository**
