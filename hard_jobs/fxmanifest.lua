@@ -11,12 +11,11 @@ server_scripts {
 
 client_scripts {
     'Configs/*.lua',
-	'**/client/*.lua',
+    '**/client/*.lua',
 }
 
 shared_scripts {
 	'locale.lua',
-	'locales/es.lua',
 	'locales/en.lua',
 }
 
