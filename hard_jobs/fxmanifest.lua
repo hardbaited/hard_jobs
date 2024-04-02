@@ -5,16 +5,15 @@ author 'HardBaited#0001'
 
 
 server_scripts {
-    'Configs/*.lua',
     '**/server/*.lua'
 }
 
 client_scripts {
-    'Configs/*.lua',
     '**/client/*.lua',
 }
 
 shared_scripts {
+    	'Configs/*.lua',
 	'locale.lua',
 	'locales/en.lua',
 }
